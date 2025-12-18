@@ -1,0 +1,43 @@
+.demo-box{
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    border-radius: 8px;
+}
+
+.box1{
+    background-color: cornflowerblue;
+}
+
+.box2{
+    background-color: green;
+}
+
+.box3{
+    background-color: lavender;
+}
+
+.box4{
+    background-color:hotpink;
+}
+
+.box5{
+    background-color: powderblue;
+}
+
+.box6{
+    background-color: moccasin;
+}
+
+.box7{
+    background-color:lightcoral;
+}
+
+.box8{
+    background-color: lightcyan;
+}
+
+.box9{
+    background-color:lightseagreen;
+}
